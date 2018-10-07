@@ -13,8 +13,8 @@ pour remporter le challenge.
  * Le jeu [Keep Talking and Nobody Explodes](http://www.keeptalkinggame.com/) (15$)
    * Le mod "[Bomb Creator](https://steamcommunity.com/sharedfiles/filedetails/?id=1224340893&searchtext=)" installé
  * Un ou plusieurs exemplaires du [manuel de désamorçage français](https://github.com/gplaurin/keep-talking-and-nobody-explodes-manuel-francais/raw/master/Manuel-du-d%C3%A9mineur_1.pdf) imprimé
- * La fiche d'instruction "joueur kidnappé" imprimé
- * La fiche de configuration des rounds
+ * La fiche d'instruction "[joueur kidnappé](https://github.com/tabmo/team-challenges/blob/master/ktane/KTANE%20-%20Fiche%20instructions.pdf)" imprimé
+ * La [fiche de configuration des rounds](https://github.com/tabmo/team-challenges/blob/master/ktane/KTANE%20-%20Configuration%20des%20rounds.pdf)
  * 2 salles et un moyen de communication (téléphone, skype) - ou une salle avec une séparation opaque.
  * Un animateur disponible tout au long de la journée
  
@@ -27,8 +27,7 @@ La recommandation est de faire des équipes de 4, pour que chaque personne ait l
 
 Pour tirer aléatoirement les équipes, vous pouvez utiliser l'outil https://www.keamk.com
 
-A l'issue du tirage au sort, une première communication peut être faite aux joueurs en leur indiquant qu'un challenge suprise sera organisé 
-en fil rouge, et durera environ 1 heure par équipe de 4.
+A l'issue du tirage au sort, une première communication peut être faite aux joueurs en leur indiquant qu'un challenge suprise sera organisé en fil rouge, et durera environ 1 heure par équipe de 4.
 
 ## Instructions animateur
 
@@ -89,6 +88,6 @@ proposer un challenge de plus en plus complexe, à l'exception du dernier round 
 Une fois toutes les équipes passées, le plus intéressant est de préparer une courte présentation donnant des 
 statistiques sur la réussite de chaque équipe, mais aussi présentant des "moments forts".
 
-Voici pour exemple le débrief de notre partie : TODO
+[Présentation type](https://github.com/tabmo/team-challenges/blob/master/ktane/KTANE%20-%20Debrief.pdf)
 
 
